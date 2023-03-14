@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'instalike',
+  title: 'InstaLike',
 
-  projectId: 'ewdv38nr',
+  projectId: 'atsx2ha2',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
