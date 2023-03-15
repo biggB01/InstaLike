@@ -1,6 +1,6 @@
 export default {
-    name: 'comment',
-    title: 'Comments',
+    name: 'save',
+    title: 'Save',
     type: 'document',
     fields: [
         {
@@ -9,8 +9,8 @@ export default {
             type: 'postedBy',
         },
         {
-            name: 'comment',
-            title: 'Comment',
+            name: 'userId',
+            title: 'UserId',
             type: 'string',
         }
     ]
